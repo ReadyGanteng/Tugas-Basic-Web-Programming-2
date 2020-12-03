@@ -1,0 +1,48 @@
+/* ini buat yang form */
+
+body{
+    padding: 20%;
+    padding-top: 5%;
+    
+}
+
+input{
+    border-radius: 5px;
+    padding: 10px;
+    width: 95%;
+    border: 1px solid wheat;
+}
+.button{
+    margin: 10px;
+    width: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+textarea{
+    width: 100%;
+}
+.Gender{
+    width: 20px;
+}
+#reset{
+    background-color: rgb(255, 131, 131);
+}
+#submit{
+    background-color: aquamarine;
+}
+.kotak{
+    width: 20px;
+}
+label{
+    padding: 1px;
+}
+textarea{
+    border: 1px solid wheat;
+}
+fieldset{
+    border: 1px solid wheat;
+    background-color: wheat;
+}
+legend{
+    background-color: white;
+}
